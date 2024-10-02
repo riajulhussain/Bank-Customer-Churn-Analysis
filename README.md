@@ -42,7 +42,7 @@ A Tableau dashboard has been created to provide visual insights into customer ch
 - Analysis of balance and its relationship to churn.
 [Link to Tableau Public Dashboard](https://public.tableau.com/views/BankCustomerChurnAnalysisDashboard/BankCustomerDataAnalysis?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Bank Customer Data Analysis](https://github.com/user-attachments/assets/ebf83bc1-8f81-4f25-95af-0bb824a34ef4)
+![Bank Customer Data Analysis (1)](https://github.com/user-attachments/assets/31ddcedd-7e04-4d5a-ab07-f5711a8fed60)
 
 # Conclusion
 This project analyses customer churn within the banking sector, focusing on geographic, gender, and financial factors.
