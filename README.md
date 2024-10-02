@@ -34,7 +34,7 @@ The dataset contains customer data from a bank, with key fields such as:
 - Creating personalised offers for female customers and bundling products with better incentives could help in retention.
 - Collaborating with local banks in Germany or offering more competitive rates compared to local banks may reduce churn.
 
-Tableau Dashboard
+# Tableau Dashboard
 A Tableau dashboard has been created to provide visual insights into customer churn. It includes visualisations on:
 
 - Churn rates by geography, gender, and age group.
@@ -42,11 +42,7 @@ A Tableau dashboard has been created to provide visual insights into customer ch
 - Analysis of balance and its relationship to churn.
 [Link to Tableau Public Dashboard](https://public.tableau.com/views/BankCustomerChurnAnalysisDashboard/BankCustomerDataAnalysis?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-# How to Use
-Clone the repository:
-git clone https://github.com/yourusername/bank-churn-analysis.git
-Open the SQL scripts to review the queries used for data analysis.
-View the Tableau dashboard to explore the visualized insights.
+![Bank Customer Data Analysis](https://github.com/user-attachments/assets/ebf83bc1-8f81-4f25-95af-0bb824a34ef4)
 
 # Conclusion
 This project analyses customer churn within the banking sector, focusing on geographic, gender, and financial factors.
