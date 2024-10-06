@@ -21,7 +21,7 @@ The dataset contains customer data from a bank, with key fields such as:
 - Analysis and Insights
 
 # Main Findings:
-- Geography and Churn- Customers from Germany have a higher churn rate compared to other countries. This may suggest that German customers require more attention and personalized retention strategies.
+- Geography and Churn- Customers from Germany have a higher churn rate compared to other countries. This may suggest that German customers require more attention and personalised retention strategies.
 - Gender and Churn- Females are more likely to churn, especially in Germany. Offering personalised products and services could help reduce churn in this group.
 - Age and Churn- Customers aged between 51-70 are the most likely to churn, while those over 70 are the least likely. The bank may need to introduce retirement-related products or provide financial advisory services for the older demographic.
 - Balance and Churn- Customers with higher balances (especially in Germany) are more likely to churn. This finding is interesting, as one would expect customers with higher balances to stay with the bank. Retention strategies such as offering better interest rates or loyalty bonuses may help mitigate this.
@@ -29,7 +29,7 @@ The dataset contains customer data from a bank, with key fields such as:
 - Tenure and Product Purchases- There is no significant correlation between tenure and the number of products purchased, so tenure may not be a strong indicator for product-related insights.
 
 # Suggested Improvements:
-- Since customers with higher balances tend to churn, the bank could engage them with more personalized benefits or low-risk investment opportunities.
+- Since customers with higher balances tend to churn, the bank could engage them with more personalised benefits or low-risk investment opportunities.
 - Develop specific programs aimed at reducing churn in demographics most likely to exit, such as older customers (51-70 years old) or German customers.
 - Creating personalised offers for female customers and bundling products with better incentives could help in retention.
 - Collaborating with local banks in Germany or offering more competitive rates compared to local banks may reduce churn.
