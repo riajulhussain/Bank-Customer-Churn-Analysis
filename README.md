@@ -22,7 +22,7 @@ The dataset contains customer data from a bank, with key fields such as:
 
 # Main Findings:
 - Geography and Churn- Customers from Germany have a higher churn rate compared to other countries. This may suggest that German customers require more attention and personalized retention strategies.
-- Gender and Churn- Females are more likely to churn, especially in Germany. Offering personalized products and services could help reduce churn in this group.
+- Gender and Churn- Females are more likely to churn, especially in Germany. Offering personalised products and services could help reduce churn in this group.
 - Age and Churn- Customers aged between 51-70 are the most likely to churn, while those over 70 are the least likely. The bank may need to introduce retirement-related products or provide financial advisory services for the older demographic.
 - Balance and Churn- Customers with higher balances (especially in Germany) are more likely to churn. This finding is interesting, as one would expect customers with higher balances to stay with the bank. Retention strategies such as offering better interest rates or loyalty bonuses may help mitigate this.
 - Number of Products and Churn- Customers with more products tend to churn more often. Offering loyalty rewards or discounts for multiple products could help improve retention.
@@ -47,6 +47,6 @@ A Tableau dashboard has been created to provide visual insights into customer ch
 # Conclusion
 This project analyses customer churn within the banking sector, focusing on geographic, gender, and financial factors.
 The findings reveal that German and French females are at the highest risk of churn, with German customers holding significantly higher average balances, making them a priority for retention.
-According to the data, that customers aged 35-55 hold the largest balances, while older customers (over 60) show higher churn rates as their balances decline.
+According to the data, customers aged 35-55 hold the largest balances, while older customers (over 60) show higher churn rates as their balances decline.
 These insights suggest that implementing retention strategies that target gender and geography, notably in Germany and France,
 as well as offering personalised products to high-balance and older customers, could significantly reduce churn and improve profitability.
