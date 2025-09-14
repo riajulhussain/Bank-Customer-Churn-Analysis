@@ -28,7 +28,7 @@ The dataset contains customer data from a bank, with key fields such as:
 - Number of Products and Churn- Customers with more products tend to churn more often. Offering loyalty rewards or discounts for multiple products could help improve retention.
 - Tenure and Product Purchases- There is no significant correlation between tenure and the number of products purchased, so tenure may not be a strong indicator for product-related insights.
 
-# Suggested Improvements:
+# Actionable Business Suggestions:
 - Since customers with higher balances tend to churn, the bank could engage them with more personalised benefits or low-risk investment opportunities.
 - Develop specific programs aimed at reducing churn in demographics most likely to exit, such as older customers (51-70 years old) or German customers.
 - Creating personalised offers for female customers and bundling products with better incentives could help in retention.
